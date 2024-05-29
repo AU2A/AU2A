@@ -60,9 +60,3 @@ C                        2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 29/05/2024 01:15:44 UTC
 <!--END_SECTION:waka-->
-
-## 📊 My Stats
-
-<div align="center">
-<img src='https://leetcard.jacoblin.cool/au2a?theme=unicorn&font=Roboto&ext=heatmap' width='400px'>
-</div>
