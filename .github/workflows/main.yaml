@@ -1,10 +1,10 @@
-name: Metrics
+name: My Profile
 on:
   # Schedule daily updates
   schedule:
     - cron: "0 16 * * *"
 jobs:
-  github-metrics:
+  readme:
     runs-on: ubuntu-latest
     environment:
       name: production
