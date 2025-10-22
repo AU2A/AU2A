@@ -5,6 +5,8 @@
 ## 🛠️ Stuff I worked on last week
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs%209%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -56,5 +58,5 @@ C                        2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 22/10/2025 13:14:58 UTC
+ Last Updated on 22/10/2025 13:16:46 UTC
 <!--END_SECTION:waka-->
